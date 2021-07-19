@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "lmr14020")(type "KiCad")(uri "${KIPRJMOD}/symbols/lmr14020.kicad_sym")(options "")(descr ""))
+  (lib (name "tls115")(type "KiCad")(uri "${KIPRJMOD}/symbols/tls115.kicad_sym")(options "")(descr ""))
 )
