@@ -784,11 +784,8 @@
     (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/07d60268-1118-4034-8291-3568f9683a74"
       (reference "D?") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMA")
     )
-    (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/2bb5c2e2-071f-46c0-8ddb-d84d3e3eccd3"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMC")
-    )
-    (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/4170b2b4-f7d2-47d9-9d17-f30dc5630df4"
-      (reference "D?") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_SMC")
+    (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/0c6ca2aa-9cd4-413b-b341-27834b7f5562"
+      (reference "D?") (unit 1) (value "LDP01-30AY") (footprint "Package_TO_SOT_SMD:TO-252-2")
     )
     (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/4834522b-b3e4-4326-9483-219e823eee86"
       (reference "D?") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMA")
@@ -798,6 +795,9 @@
     )
     (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/79ed81d4-2ba0-42b4-b1d9-789da637b797"
       (reference "D?") (unit 1) (value "5.1v") (footprint "Diode_SMD:D_MiniMELF")
+    )
+    (path "/105389e3-dfa9-494e-826b-71f0b7c57c75/93f0665d-ed32-4b0a-9ff1-f8e1d444f754"
+      (reference "D?") (unit 1) (value "LDP01-30AY") (footprint "Package_TO_SOT_SMD:TO-252-2")
     )
     (path "/b6b59443-f161-4bc9-ad3a-b68bb38cc718/b1858e44-c2b5-4e94-84d6-aa171aaea097"
       (reference "J?") (unit 1) (value "Micro_SD_Card") (footprint "Connector_Card:microSD_HC_Wuerth_693072010801")
