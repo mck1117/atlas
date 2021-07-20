@@ -59,3 +59,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# LTspice outputs
+*.log
+*.raw
