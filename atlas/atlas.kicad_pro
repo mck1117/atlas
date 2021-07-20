@@ -321,6 +321,14 @@
     [
       "105389e3-dfa9-494e-826b-71f0b7c57c75",
       "PSU"
+    ],
+    [
+      "b6b59443-f161-4bc9-ad3a-b68bb38cc718",
+      "MCU"
+    ],
+    [
+      "563df29d-e46b-4be7-a289-9542b0905b2c",
+      "DigitalIn"
     ]
   ],
   "text_variables": {}
