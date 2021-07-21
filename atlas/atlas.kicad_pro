@@ -329,6 +329,26 @@
     [
       "563df29d-e46b-4be7-a289-9542b0905b2c",
       "DigitalIn"
+    ],
+    [
+      "5cc618cf-be6f-4baa-9d91-f0d5e8b26403",
+      "QuadAnalog1"
+    ],
+    [
+      "179f829a-427f-49c5-ab54-6f06a28f7b8d",
+      "QuadAnalog2"
+    ],
+    [
+      "103ae24d-348b-4bcf-a24a-e47b54ee1f0a",
+      "QuadAnalog3"
+    ],
+    [
+      "fc32ee36-98b0-434c-b1a4-e3f621b0ebe9",
+      "QuadAnalog4"
+    ],
+    [
+      "3216190f-bea5-46ee-9c6c-e7083dee0182",
+      "QuadAnalog5"
     ]
   ],
   "text_variables": {}
