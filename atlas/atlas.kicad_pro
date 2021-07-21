@@ -349,6 +349,14 @@
     [
       "3216190f-bea5-46ee-9c6c-e7083dee0182",
       "QuadAnalog5"
+    ],
+    [
+      "6f7900ab-d547-496e-94c1-fb3e6416f368",
+      "QuadAnalog6"
+    ],
+    [
+      "5070a047-a427-4a73-9fb3-2ed203e8c3f3",
+      "QuadAnalog7"
     ]
   ],
   "text_variables": {}
