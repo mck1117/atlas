@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "hellen-one-vr-discrete-0.1")(type "KiCad")(uri "${KIPRJMOD}/../hellen-one/modules/vr-discrete/0.1/")(options "")(descr ""))
+)
